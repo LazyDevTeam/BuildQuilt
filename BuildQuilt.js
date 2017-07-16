@@ -1,6 +1,6 @@
 var w = window.innerWidth * 0.75, h = window.innerWidth * 0.75;
 var tw = 16, th = 16;
-var patterns = new Array(7);
+var patterns = new Array(8);
 
 
 var sp = 0;
